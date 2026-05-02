@@ -114,4 +114,4 @@ AXI-Lite verification completed.
 
 ## Author
 **Subba Raju Sarikonda**  
-RTL Design & Verification Engineer (SystemVerilog)
+RTL Design & Verification Engineer (SystemVerilog) Enthusiast.

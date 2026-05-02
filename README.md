@@ -70,20 +70,18 @@ Below waveform shows AXI-Lite handshake signals and read/write transactions:
 ---
 
 ## Simulation Output
-WRITE: Address=16 Data=a5a5a5a5
-PASS READ: Address=16 Data=a5a5a5a5
 
-WRITE: Address=32 Data=12345678
-PASS READ: Address=32 Data=12345678
-
-WRITE: Address=48 Data=deadbeef
-PASS READ: Address=48 Data=deadbeef
+```
+WRITE: Address=16 Data=a5a5a5a5 PASS READ: Address=16 Data=a5a5a5a5
+WRITE: Address=32 Data=12345678 PASS READ: Address=32 Data=12345678
+WRITE: Address=48 Data=deadbeef PASS READ: Address=48 Data=deadbeef
 
 AXI-Lite verification completed.
+```
 
 
 
----
+
 
 ## Skills Demonstrated
 - RTL Design using SystemVerilog  
